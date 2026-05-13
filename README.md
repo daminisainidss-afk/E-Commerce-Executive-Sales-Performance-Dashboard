@@ -1,8 +1,5 @@
 # E-Commerce-Executive-Sales-Performance-Dashboard
 Interactive E-Commerce Sales &amp; Profitability Dashboard (2018-2020) built with Advanced Excel, Power Query, and Pivot Analysis.
-![<img width="806" height="581" alt="Screenshot 2026-05-11 002707" src="https://github.com/user-attachments/assets/be2b1db3-0872-42f4-b723-8566022a88cb" />
-](3a6c0494-9147-4763-bb4a-34789fd458df)
-
 
 ## Executive Summary
 This project involves a comprehensive analysis of a multi-channel e-commerce dataset spanning three years. The objective was to transform raw transactional data into a high-level executive dashboard to monitor business health, track regional logistics overheads, and identify high-margin product segments.
